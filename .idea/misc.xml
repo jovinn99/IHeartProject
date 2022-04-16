@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Jovinn/Desktop/IHeartProject/app/src/main/res/drawable/circle_background.xml" value="0.109" />
+        <entry key="..\:/Users/Jovinn/Desktop/IHeartProject/app/src/main/res/drawable/edit_text_background.xml" value="0.109" />
+        <entry key="..\:/Users/Jovinn/Desktop/IHeartProject/app/src/main/res/drawable/edit_text_greybackground.xml" value="0.1585" />
+        <entry key="..\:/Users/Jovinn/Desktop/IHeartProject/app/src/main/res/layout/activity_diagnostic.xml" value="0.16666666666666666" />
+        <entry key="..\:/Users/Jovinn/Desktop/IHeartProject/app/src/main/res/layout/activity_donor_user_profile.xml" value="0.22" />
+        <entry key="..\:/Users/Jovinn/Desktop/IHeartProject/app/src/main/res/layout/activity_forget_password.xml" value="0.16666666666666666" />
+        <entry key="..\:/Users/Jovinn/Desktop/IHeartProject/app/src/main/res/layout/activity_hospital_list.xml" value="0.1796875" />
+        <entry key="..\:/Users/Jovinn/Desktop/IHeartProject/app/src/main/res/layout/activity_hospital_request.xml" value="0.1796875" />
+        <entry key="..\:/Users/Jovinn/Desktop/IHeartProject/app/src/main/res/layout/activity_hospital_sign_up.xml" value="0.22" />
+        <entry key="..\:/Users/Jovinn/Desktop/IHeartProject/app/src/main/res/layout/activity_hospital_user_profile.xml" value="0.22" />
+        <entry key="..\:/Users/Jovinn/Desktop/IHeartProject/app/src/main/res/layout/activity_intro.xml" value="0.1796875" />
+        <entry key="..\:/Users/Jovinn/Desktop/IHeartProject/app/src/main/res/layout/activity_inventory.xml" value="0.1796875" />
+        <entry key="..\:/Users/Jovinn/Desktop/IHeartProject/app/src/main/res/layout/activity_life_support.xml" value="0.16666666666666666" />
+        <entry key="..\:/Users/Jovinn/Desktop/IHeartProject/app/src/main/res/layout/activity_list_view.xml" value="0.1796875" />
+        <entry key="..\:/Users/Jovinn/Desktop/IHeartProject/app/src/main/res/layout/activity_login.xml" value="0.1796875" />
+        <entry key="..\:/Users/Jovinn/Desktop/IHeartProject/app/src/main/res/layout/activity_main.xml" value="0.1796875" />
+        <entry key="..\:/Users/Jovinn/Desktop/IHeartProject/app/src/main/res/layout/activity_med_lab.xml" value="0.1796875" />
+        <entry key="..\:/Users/Jovinn/Desktop/IHeartProject/app/src/main/res/layout/activity_monitor.xml" value="0.1796875" />
+        <entry key="..\:/Users/Jovinn/Desktop/IHeartProject/app/src/main/res/layout/activity_more.xml" value="0.16666666666666666" />
+        <entry key="..\:/Users/Jovinn/Desktop/IHeartProject/app/src/main/res/layout/activity_reset_password.xml" value="0.1796875" />
+        <entry key="..\:/Users/Jovinn/Desktop/IHeartProject/app/src/main/res/layout/activity_respond.xml" value="0.1796875" />
+        <entry key="..\:/Users/Jovinn/Desktop/IHeartProject/app/src/main/res/layout/activity_selection_tab.xml" value="0.16666666666666666" />
+        <entry key="..\:/Users/Jovinn/Desktop/IHeartProject/app/src/main/res/layout/activity_term_and_condition.xml" value="0.1796875" />
+        <entry key="..\:/Users/Jovinn/Desktop/IHeartProject/app/src/main/res/layout/activity_therapeutic.xml" value="0.16666666666666666" />
+        <entry key="..\:/Users/Jovinn/Desktop/IHeartProject/app/src/main/res/layout/activity_treatment.xml" value="0.1796875" />
+        <entry key="..\:/Users/Jovinn/Desktop/IHeartProject/app/src/main/res/layout/activity_user_sign_up.xml" value="0.1796875" />
+        <entry key="..\:/Users/Jovinn/Desktop/IHeartProject/app/src/main/res/layout/activity_view_inventory.xml" value="0.1796875" />
+        <entry key="..\:/Users/Jovinn/Desktop/IHeartProject/app/src/main/res/layout/fragment_home.xml" value="0.1796875" />
+        <entry key="..\:/Users/Jovinn/Desktop/IHeartProject/app/src/main/res/layout/fragment_profile.xml" value="0.1796875" />
+        <entry key="..\:/Users/Jovinn/Desktop/IHeartProject/app/src/main/res/layout/fragment_status.xml" value="0.1796875" />
+        <entry key="..\:/Users/Jovinn/Desktop/IHeartProject/app/src/main/res/layout/home_page.xml" value="0.22" />
+        <entry key="..\:/Users/Jovinn/Desktop/IHeartProject/app/src/main/res/layout/home_pages.xml" value="0.1796875" />
+        <entry key="..\:/Users/Jovinn/Desktop/IHeartProject/app/src/main/res/menu/bottom_nav.xml" value="0.1796875" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

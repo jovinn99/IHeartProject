@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "314048238161",
+    "project_id": "telemedicine2022-2137d",
+    "storage_bucket": "telemedicine2022-2137d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:314048238161:android:cee1d64dcc957ecb415e70",
+        "android_client_info": {
+          "package_name": "com.example.iheartproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "314048238161-crd49ebrvhd9cbo1vralvclujo5e12g0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAx37fMFcl_WDZaPes-78hPiVUXy79KFGc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "314048238161-crd49ebrvhd9cbo1vralvclujo5e12g0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

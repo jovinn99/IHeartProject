@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".MoreActivity">
+
+
+    <Button
+        android:id="@+id/userProfile"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@android:color/transparent"
+        android:elevation="10dp"
+        android:gravity="left|center_vertical"
+        android:text="User Profile"
+        android:textColor="@color/black" />
+
+    <Button
+        android:id="@+id/termsOfService"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Terms of Service"
+        android:gravity="left|center_vertical"
+        android:background="@android:color/transparent"
+        android:textColor="@color/black" />
+
+    <Button
+        android:id="@+id/contactUs"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Contact Us"
+        android:gravity="left|center_vertical"
+        android:background="@android:color/transparent"
+        android:textColor="@color/black" />
+
+    <Button
+        android:id="@+id/logOut"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Log Out"
+        android:gravity="left|center_vertical"
+        android:background="@android:color/transparent"
+        android:textColor="@color/black" />
+</LinearLayout>

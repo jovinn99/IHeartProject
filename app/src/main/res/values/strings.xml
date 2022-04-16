@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name">IHeartProject</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_diagnostic">DiagnosticActivity</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+    <string-array name="equipmentType_option">
+        <item>Ultrasound</item>
+        <item>MRI</item>
+        <item>PET Scanner</item>
+        <item>CT Scanner</item>
+        <item>X-Ray Machine</item>
+    </string-array>
+    <string-array name="brand_option">
+        <item>GE Healthcare</item>
+        <item>Philips</item>
+        <item>Siemens</item>
+        <item>Toshiba (Canon Medical)</item>
+    </string-array>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="equipment_type">Equipment Type</string>
+    <string name="_6_items">6 items</string>
+    <string name="designation">designation</string>
+    <string name="equipment_types">Equipment Types</string>
+    <string name="logo">logo</string>
+    <string name="diagnostic_equipment">Diagnostic Equipment</string>
+    <string name="diagnostic_icon">diagnostic_icon</string>
+    <string name="treatment_equipment">Treatment Equipment</string>
+    <string name="treatment_icon">treatment_icon</string>
+    <string name="life_support_equipment">Life Support Equipment</string>
+    <string name="life_support_icon">life_support_icon</string>
+    <string name="medical_monitor">Medical Monitor</string>
+    <string name="monitor_icon">monitor_icon</string>
+    <string name="medical_laboratory">Medical Laboratory</string>
+    <string name="lab_icon">lab_icon</string>
+    <string name="therapeutic_equipment">Therapeutic Equipment</string>
+    <string name="therapeutic_icon">therapeutic_icon</string>
+</resources>
